@@ -1,0 +1,25 @@
+body{
+  background-image: url(https://www.unsa.edu.pe/wp-content/uploads/2017/10/plantilla-comunicados-2.jpg);
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: fixed;
+}
+.form-box {
+  text-align: center;
+  margin: 190px ;
+}
+
+a, p, h1, h2, h3, input, label{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.input-text {
+  display: inline-block;
+  width: 20%;
+  border: rgb(121, 20, 20) solid 2px;
+}
+
+.title-box{
+  margin: 190px ;
+}
